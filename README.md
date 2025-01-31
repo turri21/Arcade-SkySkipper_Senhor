@@ -1,3 +1,8 @@
+-=(SkySkipper_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Nintendo Sky Skipper port for MiSTer
 
 # Keyboard inputs :
